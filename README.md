@@ -1,2 +1,2 @@
-# be-material-ui
+# bp-material-ui
 react-material-ui-typescript-rudux
