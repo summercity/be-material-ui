@@ -40,3 +40,5 @@ The template comes with responsive modern charts, analytics, tables that are eas
 
 
 
+# bp-material-ui
+react-material-ui-typescript-rudux
